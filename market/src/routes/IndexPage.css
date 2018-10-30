@@ -1,0 +1,13 @@
+
+.header {
+  color: white;
+}
+
+.content {
+  height: calc(100vh - 60px);
+}
+
+.status {
+  float: right;
+  color: white;
+}
